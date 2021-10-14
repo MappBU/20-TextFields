@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Melissa</string>
+    <string name="labelCity">Ваш Город</string>
+    <string name="enterCity">Введите свой город</string>
+    <string name="help">Help</string>
+    <string name="headerSnack">Вы хотите посмотреть список городов?</string>
+    <string name="headerActionSnack">Посмотреть</string>
+    <string name="searchCity">Поиск города</string>
+
+</resources>
